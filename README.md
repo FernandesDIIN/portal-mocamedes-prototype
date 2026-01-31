@@ -1,12 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Portal Moçâmedes – Protótipo
 
-# Run and deploy your AI Studio app
+Protótipo de aplicação web para centralização de informações do município de Moçâmedes.
 
-This contains everything you need to run your app locally.
+Este repositório representa um protótipo gerado com ferramentas automatizadas.
+A versão educacional em Python será desenvolvida separadamente.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1KQdyKobBO_thVup03l0sVNsKLRpLbh3x
+## Tecnologias
+- React
+- TypeScript
+
+## Objetivo
+Demonstrar a funcionalidade e a utilidade da ideia.
 
 ## Run Locally
 
